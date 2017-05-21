@@ -3,3 +3,4 @@ input: GFM
 markdown: kramdown
 exclude: ['README']
 permalink: pretty
+url: arcdesign.studio
